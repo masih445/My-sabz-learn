@@ -1,0 +1,42 @@
+/* Start Navbar Styles */
+
+.main-header__content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 1.5rem;
+  }
+  
+  .main-header__right {
+    display: flex;
+  }
+  
+  .main-header__menu {
+    display: flex;
+  }
+  
+  .main-header__item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    padding: 0 1rem;
+  }
+  
+  .main-header__link {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    position: relative;
+    color: #7f8187;
+  }
+  
+  .main-header__link:hover {
+    color: #7f8187;
+  }
+  
+  .main-header__link-icon {
+    margin-right: 1rem;
+  }
+  
+  /* Start DropDown Styles */
